@@ -32,11 +32,10 @@ params = {
 }
 ## Group Member Assignment
 
-| Group Member | Category | Gene |
-|---|---|---|
-| Niket | A | MSRB1 |
-| RB | B | MTND1 |
-| Gargi | C | ACTB |
+| Group Member | Category | Gene  |
+| Niket        | A        | MSRB1 |
+| RB           | B        | MTND1 |
+| Gargi        | C        | ACTB  |
 
 response = requests.get(base, params=params)
 response.text
