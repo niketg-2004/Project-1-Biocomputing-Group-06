@@ -30,6 +30,9 @@ params = {
     "term": "MSRB1",
     "retmode": "text"
 }
+response = requests.get(base, params=params)
+response.text
+
 ## Group Member Assignment
 
 | Group Member | Category | Gene  |
@@ -37,5 +40,4 @@ params = {
 | RB           | B        | MTND1 |
 | Gargi        | C        | ACTB  |
 
-response = requests.get(base, params=params)
-response.text
+
