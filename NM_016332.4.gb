@@ -1,0 +1,261 @@
+LOCUS       NM_016332               1277 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens methionine sulfoxide reductase B1 (MSRB1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_016332
+VERSION     NM_016332.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1277)
+  AUTHORS   Tarrago,L., Kaya,A., Kim,H.Y., Manta,B., Lee,B.C. and
+            Gladyshev,V.N.
+  TITLE     The selenoprotein methionine sulfoxide reductase B1 (MSRB1)
+  JOURNAL   Free Radic Biol Med 191, 228-240 (2022)
+   PUBMED   36084791
+  REMARK    GeneRIF: The selenoprotein methionine sulfoxide reductase B1
+            (MSRB1).
+            Review article
+REFERENCE   2  (bases 1 to 1277)
+  AUTHORS   Luck,K., Kim,D.K., Lambourne,L., Spirohn,K., Begg,B.E., Bian,W.,
+            Brignall,R., Cafarelli,T., Campos-Laborie,F.J., Charloteaux,B.,
+            Choi,D., Cote,A.G., Daley,M., Deimling,S., Desbuleux,A., Dricot,A.,
+            Gebbia,M., Hardy,M.F., Kishore,N., Knapp,J.J., Kovacs,I.A.,
+            Lemmens,I., Mee,M.W., Mellor,J.C., Pollis,C., Pons,C.,
+            Richardson,A.D., Schlabach,S., Teeking,B., Yadav,A., Babor,M.,
+            Balcha,D., Basha,O., Bowman-Colin,C., Chin,S.F., Choi,S.G.,
+            Colabella,C., Coppin,G., D'Amata,C., De Ridder,D., De Rouck,S.,
+            Duran-Frigola,M., Ennajdaoui,H., Goebels,F., Goehring,L., Gopal,A.,
+            Haddad,G., Hatchi,E., Helmy,M., Jacob,Y., Kassa,Y., Landini,S.,
+            Li,R., van Lieshout,N., MacWilliams,A., Markey,D., Paulson,J.N.,
+            Rangarajan,S., Rasla,J., Rayhan,A., Rolland,T., San-Miguel,A.,
+            Shen,Y., Sheykhkarimli,D., Sheynkman,G.M., Simonovsky,E., Tasan,M.,
+            Tejeda,A., Tropepe,V., Twizere,J.C., Wang,Y., Weatheritt,R.J.,
+            Weile,J., Xia,Y., Yang,X., Yeger-Lotem,E., Zhong,Q., Aloy,P.,
+            Bader,G.D., De Las Rivas,J., Gaudet,S., Hao,T., Rak,J.,
+            Tavernier,J., Hill,D.E., Vidal,M., Roth,F.P. and Calderwood,M.A.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   3  (bases 1 to 1277)
+  AUTHORS   Li,H., He,Q., Meng,F., Feng,X., Chen,J., Li,L. and Liu,J.
+  TITLE     Methionine sulfoxide reductase B1 regulates proliferation and
+            invasion by affecting mitogen-activated protein kinase pathway and
+            epithelial-mesenchymal transition in u2os cells
+  JOURNAL   Biochem Biophys Res Commun 496 (3), 806-813 (2018)
+   PUBMED   29395081
+  REMARK    GeneRIF: In vivo, MsrB1 shRNAi can inhibit lung metastasis in
+            metastasis model. In conclusion, MsrB1 regulates proliferation and
+            invasion of u2os cells by affecting MAPK pathway and EMT, and MsrB1
+            gene may be a novel therapeutic target against tumors.
+REFERENCE   4  (bases 1 to 1277)
+  AUTHORS   Wang,C., Chen,P., He,X., Peng,Z., Chen,S., Zhang,R., Cheng,J. and
+            Liu,Q.
+  TITLE     Direct interaction between selenoprotein R and Abeta42
+  JOURNAL   Biochem Biophys Res Commun 489 (4), 509-514 (2017)
+   PUBMED   28579431
+REFERENCE   5  (bases 1 to 1277)
+  AUTHORS   Achilli,C., Ciana,A., Rossi,A., Balduini,C. and Minetti,G.
+  TITLE     Neutrophil granulocytes uniquely express, among human blood cells,
+            high levels of Methionine-sulfoxide-reductase enzymes
+  JOURNAL   J Leukoc Biol 83 (1), 181-189 (2008)
+   PUBMED   17938273
+  REMARK    GeneRIF: The neutrophils expressed the highest activity Msrs. Msrs
+            are important as antioxidant/repair systems for neutrophils, cells
+            with enormous capacity for the generation of reactive oxidants and
+            hence, susceptible to oxidative damage.
+REFERENCE   6  (bases 1 to 1277)
+  AUTHORS   Kim,H.Y. and Gladyshev,V.N.
+  TITLE     Methionine sulfoxide reduction in mammals: characterization of
+            methionine-R-sulfoxide reductases
+  JOURNAL   Mol Biol Cell 15 (3), 1055-1064 (2004)
+   PUBMED   14699060
+REFERENCE   7  (bases 1 to 1277)
+  AUTHORS   Moskovitz,J., Singh,V.K., Requena,J., Wilkinson,B.J., Jayaswal,R.K.
+            and Stadtman,E.R.
+  TITLE     Purification and characterization of methionine sulfoxide
+            reductases from mouse and Staphylococcus aureus and their substrate
+            stereospecificity
+  JOURNAL   Biochem Biophys Res Commun 290 (1), 62-65 (2002)
+   PUBMED   11779133
+  REMARK    GeneRIF: The studies in mouse show that MsrB is a selenoprotein
+            that exhibits high specificity for reduction of the R forms of free
+            and protein-bound methionine sulfoxide.
+REFERENCE   8  (bases 1 to 1277)
+  AUTHORS   Daniels,R.J., Peden,J.F., Lloyd,C., Horsley,S.W., Clark,K.,
+            Tufarelli,C., Kearney,L., Buckle,V.J., Doggett,N.A., Flint,J. and
+            Higgs,D.R.
+  TITLE     Sequence, structure and pathology of the fully annotated terminal 2
+            Mb of the short arm of human chromosome 16
+  JOURNAL   Hum Mol Genet 10 (4), 339-352 (2001)
+   PUBMED   11157797
+REFERENCE   9  (bases 1 to 1277)
+  AUTHORS   Lescure,A., Gautheret,D., Carbon,P. and Krol,A.
+  TITLE     Novel selenoproteins identified in silico and in vivo by using a
+            conserved RNA structural motif
+  JOURNAL   J Biol Chem 274 (53), 38147-38154 (1999)
+   PUBMED   10608886
+REFERENCE   10 (bases 1 to 1277)
+  AUTHORS   Kryukov,G.V., Kryukov,V.M. and Gladyshev,V.N.
+  TITLE     New mammalian selenocysteine-containing proteins identified with an
+            algorithm that searches for selenocysteine insertion sequence
+            elements
+  JOURNAL   J Biol Chem 274 (48), 33888-33897 (1999)
+   PUBMED   10567350
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC005363.1.
+            
+            On Apr 24, 2020 this sequence version replaced NM_016332.3.
+            
+            Summary: The protein encoded by this gene belongs to the
+            methionine-R-sulfoxide reductase B (MsrB) family. Members of this
+            family function as repair enzymes that protect proteins from
+            oxidative stress by catalyzing the reduction of
+            methionine-R-sulfoxides to methionines. This protein is highly
+            expressed in liver and kidney, and is localized to the nucleus and
+            cytosol. It is the only member of the MsrB family that is a
+            selenoprotein, containing a selenocysteine (Sec) residue at its
+            active site. It also has the highest methionine-R-sulfoxide
+            reductase activity compared to other members containing cysteine in
+            place of Sec. Sec is encoded by the UGA codon, which normally
+            signals translation termination. The 3' UTRs of selenoprotein mRNAs
+            contain a conserved stem-loop structure, designated the Sec
+            insertion sequence (SECIS) element, that is necessary for the
+            recognition of UGA as a Sec codon, rather than as a stop signal. A
+            pseudogene of this locus has been identified on chromosome 19.
+            [provided by RefSeq, Aug 2017].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC003127.1, AK026128.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match              :: ENST00000361871.8/
+                                               ENSP00000355084.3
+            protein contains selenocysteine :: PMID: 10567350, 10608886
+            RefSeq Select criteria          :: based on manual assertion,
+                                               conservation, expression,
+                                               longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-98                AC005363.1         44786-44883         c
+            99-247              AC005363.1         42941-43089         c
+            248-362             AC005363.1         42462-42576         c
+            363-1277            AC005363.1         39913-40827         c
+FEATURES             Location/Qualifiers
+     source          1..1277
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     gene            1..1277
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /note="methionine sulfoxide reductase B1"
+                     /db_xref="GeneID:51734"
+                     /db_xref="HGNC:HGNC:14133"
+                     /db_xref="MIM:606216"
+     exon            1..98
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             44..394
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /EC_number="1.8.4.12"
+                     /EC_number="1.8.4.14"
+                     /note="UGA stop codon recoded as selenocysteine; isoform 1
+                     is encoded by transcript variant 1; selenoprotein R;
+                     methionine-R-sulfoxide reductase B1; selenoprotein X, 1"
+                     /codon_start=1
+                     /transl_except=(pos:326..328,aa:Sec)
+                     /product="methionine-R-sulfoxide reductase B1 isoform 1"
+                     /protein_id="NP_057416.1"
+                     /db_xref="CCDS:CCDS42100.1"
+                     /db_xref="GeneID:51734"
+                     /db_xref="HGNC:HGNC:14133"
+                     /db_xref="MIM:606216"
+                     /translation="MSFCSFFGGEVFQNHFEPGVYVCAKCGYELFSSRSKYAHSSPWP
+                     AFTETIHADSVAKRPEHNRSEALKVSCGKCGNGLGHEFLNDGPKPGQSRFUIFSSSLK
+                     FVPKGKETSASQGH"
+     misc_feature    326..328
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /note="Selenocysteine; other site"
+     exon            99..247
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            248..362
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            363..1277
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      871..942
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+     regulatory      1259..1264
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /note="hexamer: AATGAA"
+     polyA_site      1265
+                     /gene="MSRB1"
+                     /gene_synonym="HSPC270; SELENOR; SELENOX; SELR; SELX;
+                     SepR; SEPX1"
+                     /note="major polyA site"
+ORIGIN      
+        1 ggtcagttgg cagcggcaag cgcgctgcgg ttccggtggc gccatgtcgt tctgcagctt
+       61 cttcgggggc gaggttttcc agaatcactt tgaacctggc gtttacgtgt gtgccaagtg
+      121 tggctatgag ctgttctcca gccgctcgaa gtatgcacac tcgtctccat ggccggcgtt
+      181 caccgagacc attcacgccg acagcgtggc caagcgtccg gagcacaata gatctgaagc
+      241 cttgaaggtg tcctgtggca agtgtggcaa tgggttgggc cacgagttcc tgaacgacgg
+      301 ccccaagccg gggcagtccc gattctgaat attcagcagc tcgctgaagt ttgtccctaa
+      361 aggcaaagaa acttctgcct cccagggtca ctaggcgggc agcccacacc caccccagac
+      421 ggccaccaca ctgaggccac acgttggcca ttccaccttg gagttggaac cctgggcgtc
+      481 gagacaggaa ggcagggcgc agtggttgaa acatcaggac actcccaagg ccccggctct
+      541 gaacaagacc ttttcgtttc ttggaaaaga gactcatttg ctgatggttc atgccttctg
+      601 ctgggacagg cctgggctgt gcagccacac tgtcggctga cttagccccc tgctcactct
+      661 aggtgcctcc aggaggtgag ccctgggtgc agctggtctc tgaatgacgt tacaccctca
+      721 ccttcttttc ctggccctgt ctctggactc tcccctgtga ggcccaattc caagacagac
+      781 tctcgtcctc accgaagctt aggcccacat ctcccaggct gcttaggaga cagaatggaa
+      841 acggaggccg cccctgccag ccgccctggc cctggtcact gcatgatccg ctctggtcaa
+      901 acccttccag gccagccaga gtggggatgg tctgtgacct gctgggaagg caggctgatg
+      961 gggcacaccc ttggcctctc gtccacgagg ggagaaacct aaaccctgtt tcacaatctg
+     1021 tgcggaagta gcttgcctca cttctgctta ggaaagcggc tgttgctcca taactctaac
+     1081 cagcacaggg ctgaggcctg cagtgcacac ctgcagggag gcccttccca aggtgtggtg
+     1141 actgtgcctt actgtacatg ctcggaggcc tggccatata ggagggtggg tgatgctgaa
+     1201 atcacccccc atcttaagta attactttct ggagtaatca ggtggaaatc catagacaaa
+     1261 tgaaacattc agatgta
+//
+
