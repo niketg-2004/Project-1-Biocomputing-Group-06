@@ -35,9 +35,9 @@ response.text
 
 ## Group Member Assignment
 
-| Group Member | Category | Gene  |
-| Niket        | A        | MSRB1 |
-| RB           | B        | MTND1 |
-| Gargi        | C        | ACTB  |
+| Group Member    | Category | Gene  |
+| Niket Gindodiya | A        | MSRB1 |
+| Ridhanya K B    | B        | MTND1 |
+| Gargi Yadhav    | C        | ACTB  |
 
 
