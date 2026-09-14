@@ -9,7 +9,7 @@
 3. Identified the required sequence records and accession numbers.
 4. Retrieved the required nucleotide and protein sequences.
 5. Retrieved the GenBank record for the required gene.
-6. Stored the retrieved FASTA, GenBank and PDB files in the `data/` folder.
+6. Stored the retrieved FASTA and GenBank in the `data/` folder.
 7. Performed the required analysis using Python.
 8. Stored the Python notebook used for the analysis in the `scripts/` folder.
 9. Stored the output files and Q4 summary table in the `results/` folder.
@@ -30,6 +30,13 @@ params = {
     "term": "MSRB1",
     "retmode": "text"
 }
+## Group Member Assignment
+
+| Group Member | Category | Gene |
+|---|---|---|
+| Niket | A | MSRB1 |
+| RB | B | MTND1 |
+| Gargi | C | ACTB |
 
 response = requests.get(base, params=params)
 response.text
