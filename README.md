@@ -1,1 +1,1 @@
-# Project-1-Biocomputing-Group-06
+This folder contains the FASTA, GenBank and PDB files retrieved for the project.
