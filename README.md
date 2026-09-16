@@ -5,7 +5,7 @@
 ## Project Workflow
 
 1. Selected genes according to the categories assigned to the group members.
-2. Searched the NCBI nucleotide database for the selected genes.
+2. Searched the NCBI nucleotide database for the selected genes with and without the filter .
 3. Identified the required sequence records and accession numbers.
 4. Retrieved the required nucleotide record for the required gene.
 5. Retrieved the GenBank record for the required gene.
