@@ -11,7 +11,7 @@
 5. Retrieved the GenBank record for the required gene.
 6. Retrieved the protein Sequence record for the required gene.
 7. Stored the retrieved FASTA and GenBank in the `data/` folder.
-8. Stored the Python notebook used for the analysis in the `scripts/` folder.
+8. Stored the juypter notebook used for the analysis in the `scripts/` folder.
 9. Stored the output files and Q4 summary table in the `results/` folder.
 
 ## NCBI Search and Retrieval
