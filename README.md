@@ -7,10 +7,10 @@
 1. Selected genes according to the categories assigned to the group members.
 2. Searched the NCBI nucleotide database for the selected genes.
 3. Identified the required sequence records and accession numbers.
-4. Retrieved the required nucleotide and protein sequences.
+4. Retrieved the required nucleotide record for the required gene.
 5. Retrieved the GenBank record for the required gene.
-6. Stored the retrieved FASTA and GenBank in the `data/` folder.
-7. Performed the required analysis using Python.
+6. Retrieved the protein Sequence record for the required gene.
+7. Stored the retrieved FASTA and GenBank in the `data/` folder.
 8. Stored the Python notebook used for the analysis in the `scripts/` folder.
 9. Stored the output files and Q4 summary table in the `results/` folder.
 
